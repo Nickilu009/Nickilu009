@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nickilu009
+- 👋 Hi, I’m @nbbosco
 - 👀 I’m interested in Architecture
 - 🌱 I’m currently learning Javascript, Python, Deep Learning
 - 💞️ I’m looking to collaborate on ...
